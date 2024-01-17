@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Payan</h1>
-<h3 align="center">A passionate developer from Sevilla(España)</h3>
+<h3 align="center">A passionate developer from Sevilla (España)</h3>
 
 - # I’m currently studying on **EUSA, Sevilla(Spain)**
 
@@ -8,6 +8,7 @@
 - # All of my projects are available at https://github.com/DavidPayan8/DavidPayan8.git
 
 - # How to reach me **davidpayanalvarado@gmail.com**
+- # Linkedin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
