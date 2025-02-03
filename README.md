@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David Payan</h1>
 <h3 align="center">A passionate developer from Sevilla (España)</h3>
 
-- # I’m currently studying on **EUSA, Sevilla(Spain)**
+- # I’m FullStack Dev**
 
-- # I’m currently learning **front-end course, frameworks,**
+- # I’m currently working on a company**
 
 - # All of my projects are available at https://github.com/DavidPayan8/DavidPayan8.git
 
