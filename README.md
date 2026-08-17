@@ -6,7 +6,7 @@ I build web platforms, cross-platform mobile apps, and the ERP-connected systems
 </p>
 
 <p align="center">
-🌐 <a href="https://davidpayan.dev">davidpayan.dev</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+🌐 <a href="https://portfolio-kappa-one-99.vercel.app">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
 💼 <a href="https://www.linkedin.com/in/david-pay%C3%A1n-alvarado-39a488252/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
 📧 <a href="mailto:davidpayanalvarado@gmail.com">davidpayanalvarado@gmail.com</a>
 </p>
@@ -29,7 +29,7 @@ I build web platforms, cross-platform mobile apps, and the ERP-connected systems
 - A self-service kiosk ecosystem live across 2 restaurants (6 kiosks) plus a queue management system, also in production.
 - A mobile time-tracking app (Flutter + PWA) used daily by 18 companies, most integrated with their ERP.
 
-More detail, with demos, on the [portfolio](https://davidpayan.dev).
+More detail, with demos, on the [portfolio](https://portfolio-kappa-one-99.vercel.app).
 
 ---
 
